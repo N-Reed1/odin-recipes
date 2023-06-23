@@ -1,2 +1,2 @@
 # odin-recipes
-Basic Recipe Website That Demonstrates Basic HTML knowledge and Git skills
+Simple Recipe Website That Demonstrates Basic HTML knowledge and Git skills
